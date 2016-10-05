@@ -1,0 +1,15 @@
+c:\users\nikim_000\documents\visual studio 2015\Projects\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.exe.config
+c:\users\nikim_000\documents\visual studio 2015\Projects\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.exe
+c:\users\nikim_000\documents\visual studio 2015\Projects\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.pdb
+c:\users\nikim_000\documents\visual studio 2015\Projects\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.csprojResolveAssemblyReference.cache
+c:\users\nikim_000\documents\visual studio 2015\Projects\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.exe
+c:\users\nikim_000\documents\visual studio 2015\Projects\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.pdb
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.exe.config
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.exe
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.pdb
+\\NIKI\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.exe.config
+\\NIKI\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.exe
+\\NIKI\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.pdb
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.exe
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\bin\Debug\Robot-Simulator.pdb
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\Robot-Simulator\obj\Debug\Robot-Simulator.csprojResolveAssemblyReference.cache

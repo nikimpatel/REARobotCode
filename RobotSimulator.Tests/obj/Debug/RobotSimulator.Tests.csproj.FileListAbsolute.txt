@@ -1,0 +1,8 @@
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\bin\Debug\RobotSimulator.Tests.dll
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\bin\Debug\RobotSimulator.Tests.pdb
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\bin\Debug\Robot-Simulator.exe
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\bin\Debug\Robot-Simulator.pdb
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\obj\Debug\RobotSimulator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\obj\Debug\RobotSimulator.Tests.dll
+C:\Users\nikim_000\Desktop\toy-robot-master\Robot-Simulator\RobotSimulator.Tests\obj\Debug\RobotSimulator.Tests.pdb
